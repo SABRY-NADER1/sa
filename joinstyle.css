@@ -1,0 +1,11 @@
+div.navbar{
+  display: flex;
+  justify-content: space-around;
+align-items: center;
+background-color: black;
+}
+div.navbar a{
+  margin: -150px;
+  text-decoration: none;
+  color: white;
+}

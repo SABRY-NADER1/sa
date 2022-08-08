@@ -1,0 +1,327 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #34495e;
+}
+div.maincontent{
+  height: 800px;
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div.navbar{
+  display: flex;
+  justify-content: space-around;
+align-items: center;
+background-color: black;
+}
+div.navbar a{
+  margin: 5px;
+  text-decoration: none;
+  color: white;
+}
+a.buttom{
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid;
+  background: transparent;
+}
+div.details{
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+  font-family: monospace;
+}
+div.details p{
+  font-size: 20px;
+}
+div.maingames p{
+  color: gray;
+}
+div.maingames{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+width: 60%;
+margin: auto;
+align-items: center;
+background-color: black;
+border: none;
+padding: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+border-radius: 20px;
+color: white;
+font-family: monospace;
+}
+ div.gamedetails{
+   width:80%;
+   color: white;
+   font-family: monospace;
+ }
+div.image img{
+  margin-left: 400px;
+  border-radius: 20px;
+}
+div.upcoming  h1{
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
+div.upcominggames{
+  display: flex;
+  justify-content:space-around;
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
+div.upcominggames img{
+  width: 120px;
+  height: 120px;
+  border-radius: 120px;
+}
+.games{
+  color: white;
+  font-family: monospace;
+}
+div.gamedetails p{
+  color: white;
+  font-family: monospace;
+}
+img.image1{
+  border: 10px;
+  border-radius: 20px;
+}
+div.post{
+  text-align: center;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+div.contents{
+
+
+    display: flex;
+    justify-content: center;
+    background-color:#34495e;
+margin: auto;
+align-items: center;
+
+}
+
+div.post1{
+  border-radius:50px;
+  background-color: #222f3e;
+  padding: 20px;
+margin: 20px;
+color: white;
+font-family: monospace;
+text-align: center;
+}
+div.post1 img{
+  border-radius: 20px;
+}
+div.post2{
+  border-radius:50px;
+  background-color: #222f3e;
+  padding: 20px;
+  margin: 20px;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+}
+div.post2 img{
+  border-radius: 20px;
+}
+div.post3{
+  border-radius:50px;
+  background-color:#222f3e;
+  padding: 20px;
+  margin: 20px;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+}
+div.post3 img{
+  border-radius: 20px;
+}
+div.testimonials{
+  text-align: center;
+}
+div.t12{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+div.testimonials h2{
+  text-align: center;
+color: white;
+font-family: monospace;
+}
+div.t{
+  background-color: #222f3e;
+  border-radius: 10px;
+  width: 400px;
+  color: white;
+  font-family: monospace;
+}
+div.t2{
+  background-color: #222f3e;
+  border-radius: 10px;
+  width: 400px;
+  color: white;
+  font-family: monospace;
+}
+div.prices{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+    margin: auto;
+  color: black;
+
+}
+.pricing h2{
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
+div.price{
+    width: 30%;
+    background-color: #222f3e;
+    text-align: center;
+    border-radius: 10px;
+    height: 330px;
+    margin-bottom: 20px;
+  color: white;
+  font-family: monospace;
+}
+div.priceofplan{
+  background-color: #54a0ff;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  color: white;
+  font-family: monospace;
+}
+div.price a{
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid;
+  background: transparent;
+}
+div.price2{
+    width: 30%;
+    background-color: #222f3e;
+    text-align: center;
+    border-radius: 10px;
+    height: 330px;
+    margin-bottom: 20px;
+      color: white;
+font-family: monospace;
+}
+div.priceofplan2{
+  background-color: #5f27cd;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-family: monospace;
+  color: white;
+}
+div.price2 a{
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid;
+  background: transparent;
+  }
+  div.price3{
+      width: 30%;
+      background-color: #222f3e;
+      text-align: center;
+      border-radius: 10px;
+      height: 330px;
+      margin-bottom: 20px;
+  color: white;
+  font-family: monospace;
+  }
+  div.priceofplan3{
+    background-color: #341f97;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: white;
+    font-family: monospace;
+  }
+  div.price3 a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid;
+    background: transparent;
+    }
+div.joinform{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  width: 70%;
+  margin-top: 40px;
+
+  background-color: white;
+  border: 2px solid;
+  border-radius: 10px;
+}
+.joinform .form,.joinform .image{
+  width: 60%;
+}
+.joinform .image{
+  background-image: url("fantasy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 400px;
+  padding: 15px;
+}
+.joinform .form{
+  width: 65;
+}
+body.background{
+  background-image: url("chuck-fortner-LFVBohYmtgc-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 750px;
+}
+.form input, .form button {
+  padding: 15px;
+  font-size: 16px;
+  border: 1px solid cadetblue;
+  margin: 10px;
+}
+form{
+  width: 60%;
+  margin: auto;
+  display: flex;
+flex-direction: column;
+}
+.form a{
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+
+  text-align: center;
+}
+{
+
+}
+input
+{
+border-radius: 10px;
+}
